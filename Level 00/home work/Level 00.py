@@ -101,17 +101,19 @@ print(1000 * int("1000"))
 
 print(123 * int("123"))
 
+print(87 * int("67"))
 
 
 
 
+print(5 + 5)
 
 
 
+print(5 * 5)
 
 
-
- 
+aitem = "bike"
 
 
 
@@ -124,3 +126,4 @@ exitonclick()
 
 
 
+ 
