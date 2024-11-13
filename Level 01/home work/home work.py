@@ -13,7 +13,7 @@ name = "demetre"
 
 #step 1: draw a square
 shape("turtle")
-speed(30)
+speed(100)
 width(7)
 color("blue")
 begin_fill()
@@ -38,7 +38,7 @@ end_fill()
 
 left(90)
 forward(70)
-color("yellow")
+color("yelow")
 begin_fill()
 
 left(90)
